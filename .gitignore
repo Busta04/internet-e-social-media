@@ -1,5 +1,5 @@
 # Ignora l'ambiente virtuale
-venv/
+ism_env/
 __pycache__/
 
 # Ignora i file di dati estratti (opzionale, se sono privati)
